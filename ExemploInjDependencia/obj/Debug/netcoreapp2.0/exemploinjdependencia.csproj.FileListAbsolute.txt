@@ -1,0 +1,12 @@
+C:\Users\Fernando\ExemploInjDependencia\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
+C:\Users\Fernando\ExemploInjDependencia\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll
+C:\Users\Fernando\ExemploInjDependencia\bin\Debug\netcoreapp2.0\exemploinjdependencia.deps.json
+C:\Users\Fernando\ExemploInjDependencia\bin\Debug\netcoreapp2.0\exemploinjdependencia.runtimeconfig.json
+C:\Users\Fernando\ExemploInjDependencia\bin\Debug\netcoreapp2.0\exemploinjdependencia.runtimeconfig.dev.json
+C:\Users\Fernando\ExemploInjDependencia\bin\Debug\netcoreapp2.0\exemploinjdependencia.dll
+C:\Users\Fernando\ExemploInjDependencia\bin\Debug\netcoreapp2.0\exemploinjdependencia.pdb
+C:\Users\Fernando\ExemploInjDependencia\obj\Debug\netcoreapp2.0\exemploinjdependencia.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\ExemploInjDependencia\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Fernando\ExemploInjDependencia\obj\Debug\netcoreapp2.0\exemploinjdependencia.AssemblyInfo.cs
+C:\Users\Fernando\ExemploInjDependencia\obj\Debug\netcoreapp2.0\exemploinjdependencia.dll
+C:\Users\Fernando\ExemploInjDependencia\obj\Debug\netcoreapp2.0\exemploinjdependencia.pdb
